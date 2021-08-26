@@ -47,6 +47,7 @@ body{
     background-color:  hsl(225, 100%, 94%);
 	background-image: url(images/pattern-background-desktop.svg);
 	background-repeat: no-repeat;
+	background-size:cover;
 	width:100%;
 }
 .back{
@@ -175,7 +176,7 @@ img{
 .attribution a{
 	text-decoration: none;
 	font-weight:900;
-	
+
 }
 @media(max-width:376px)
 {
@@ -187,6 +188,6 @@ img{
 @media(min-width:1440px)
 {
 	html{
-		font-size:16px;
+		font-size:17px;
 	}
 }
